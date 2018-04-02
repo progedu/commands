@@ -24,3 +24,8 @@
 
 [https://progedu.github.io/intro-curriculum-faq/vagrant.html](https://progedu.github.io/intro-curriculum-faq/vagrant.html)
 
+### RLogin
+
+[http://nanno.dip.jp/softlib/man/rlogin/](http://nanno.dip.jp/softlib/man/rlogin/)
+
+
