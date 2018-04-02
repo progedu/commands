@@ -2,7 +2,6 @@
 
 ### VirtualBoxのダウンロードページ
 
-
 `https://www.virtualbox.org/wiki/Download_Old_Builds_5_1`
 
 ### Vagrant (Windowsの場合)
@@ -21,4 +20,7 @@
 
 `@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"`
 
+### Linux仮想環境セットアップ時のトラブルシューティング
+
+[https://progedu.github.io/intro-curriculum-faq/vagrant.html](https://progedu.github.io/intro-curriculum-faq/vagrant.html)
 
