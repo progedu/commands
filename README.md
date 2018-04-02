@@ -24,8 +24,10 @@
 
 [https://progedu.github.io/intro-curriculum-faq/vagrant.html](https://progedu.github.io/intro-curriculum-faq/vagrant.html)
 
-### RLogin
+### RLoginのダウンロード
 
 [http://nanno.dip.jp/softlib/man/rlogin/](http://nanno.dip.jp/softlib/man/rlogin/)
 
+### VS Codeのダウンロード
 
+[https://code.visualstudio.com/download](https://code.visualstudio.com/download)
