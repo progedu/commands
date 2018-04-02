@@ -6,11 +6,11 @@
 
 ### Vagrant (Windowsの場合)
 
-`https://releases.hashicorp.com/vagrant/2.0.0/vagrant_2.0.0_x86_64.msi`
+[https://releases.hashicorp.com/vagrant/2.0.0/vagrant_2.0.0_x86_64.msi](https://releases.hashicorp.com/vagrant/2.0.0/vagrant_2.0.0_x86_64.msi)
 
 ### Vagrant (Macの場合)
 
-`https://releases.hashicorp.com/vagrant/2.0.0/vagrant_2.0.0_x86_64.dmg`
+[https://releases.hashicorp.com/vagrant/2.0.0/vagrant_2.0.0_x86_64.dmg](https://releases.hashicorp.com/vagrant/2.0.0/vagrant_2.0.0_x86_64.dmg)
 
 ### Ubuntuのダウンロード
 
