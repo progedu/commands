@@ -31,3 +31,12 @@
 ### VS Codeのダウンロード
 
 [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+
+
+### あなたのいいところ診断のソースコード
+
+[https://github.com/progedu/assessment-for-donwload](https://github.com/progedu/assessment-for-donwload)
+
+### あなたのいいところ診断の動作確認ページ
+
+[https://progedu.github.io/assessment-for-donwload/assessment.html](https://progedu.github.io/assessment-for-donwload/assessment.html)
