@@ -44,3 +44,6 @@
 ### nodebrew
 
 [https://github.com/hokaccha/nodebrew](https://github.com/hokaccha/nodebrew)
+
+### SlackのWorkspace(旧Team)への招待
+[https://docs.google.com/forms/d/e/1FAIpQLScCC4R-3oh8IbGuGn7xCwhEVSAaqpz7xd4jy-xHBithheNMLg/viewform](https://docs.google.com/forms/d/e/1FAIpQLScCC4R-3oh8IbGuGn7xCwhEVSAaqpz7xd4jy-xHBithheNMLg/viewform)
