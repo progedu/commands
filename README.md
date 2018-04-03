@@ -47,3 +47,7 @@
 
 ### SlackのWorkspace(旧Team)への招待
 [https://docs.google.com/forms/d/e/1FAIpQLScCC4R-3oh8IbGuGn7xCwhEVSAaqpz7xd4jy-xHBithheNMLg/viewform](https://docs.google.com/forms/d/e/1FAIpQLScCC4R-3oh8IbGuGn7xCwhEVSAaqpz7xd4jy-xHBithheNMLg/viewform)
+
+
+### 連想配列のMap
+[https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map)
